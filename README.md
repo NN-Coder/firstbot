@@ -6,3 +6,6 @@ Steps:
   5. Download PM2 to automate the process (npm install -g pm2)
   6. Create a PM2 task for the process (pm2 start bot.js --name "first-bot")
   7. Save the PM2 task (pm2 save)
+
+Read more about Cron Format here: https://cloud.google.com/scheduler/docs/configuring/cron-job-schedules
+Resources and help for RobotJS and PM2 are available here: https://github.com/octalmage/robotjs/wiki/Building, https://pm2.io/docs/plus/overview/
